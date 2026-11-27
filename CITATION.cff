@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and this software record. The repository DOI will be added at deposition."
+type: software
+title: "Code for Retrieval-Augmented Large Language Model for City-Scale Power Grid Topology Approximation from Incompletely Labelled OpenStreetMap Data"
+version: 1.0.0
+authors:
+  - family-names: Deng
+    given-names: Xingrui
+    email: dengxr@ustb.edu.cn
+    affiliation: "Research Institute of Urbanization and Urban Safety, School of Future Cities, University of Science and Technology Beijing, Beijing 100083, China"
+  - family-names: Zhao
+    given-names: Yujie
+    email: m202310065@xs.ustb.edu.cn
+    affiliation: "Research Institute of Urbanization and Urban Safety, School of Future Cities, University of Science and Technology Beijing, Beijing 100083, China"
+  - family-names: Yue
+    given-names: Qingrui
+    email: yueqr@vip.163.com
+    affiliation: "Research Institute of Urbanization and Urban Safety, School of Future Cities, University of Science and Technology Beijing, Beijing 100083, China"
+  - family-names: Xu
+    given-names: Zhen
+    email: xuzhen@ustb.edu.cn
+    affiliation: "Research Institute of Urbanization and Urban Safety, School of Future Cities, University of Science and Technology Beijing, Beijing 100083, China"
+license: MIT
+keywords:
+  - OpenStreetMap
+  - retrieval-augmented generation
+  - large language model
+  - power grid topology
+  - reproducible research

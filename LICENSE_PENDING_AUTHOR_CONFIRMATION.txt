@@ -1,0 +1,5 @@
+AUTHOR DECISION RESOLVED ON 28 NOVEMBER 2026.
+
+The original custom code is licensed under the MIT License in the file LICENSE. Third-party libraries remain under their own licences and are listed in THIRD_PARTY_NOTICES.md.
+
+This compatibility filename is retained only so earlier audit references do not break. It is not the governing licence file.

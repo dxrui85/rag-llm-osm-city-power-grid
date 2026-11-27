@@ -1,0 +1,18 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Code for Retrieval-Augmented Large Language Model for City-Scale Power Grid Topology Approximation from Incompletely Labelled OpenStreetMap Data",
+  "version": "1.0.0",
+  "license": "https://spdx.org/licenses/MIT.html",
+  "programmingLanguage": ["Python", "PowerShell"],
+  "runtimePlatform": "Python 3.13.9",
+  "applicationCategory": "Scientific research software",
+  "description": "Offline descriptive analysis, deterministic graph assembly, sensitivity analysis, and figure-generation code for the associated study.",
+  "author": [
+    {"@type": "Person", "givenName": "Xingrui", "familyName": "Deng", "email": "dengxr@ustb.edu.cn", "affiliation": {"@type": "Organization", "name": "University of Science and Technology Beijing"}},
+    {"@type": "Person", "givenName": "Yujie", "familyName": "Zhao", "email": "m202310065@xs.ustb.edu.cn", "affiliation": {"@type": "Organization", "name": "University of Science and Technology Beijing"}},
+    {"@type": "Person", "givenName": "Qingrui", "familyName": "Yue", "email": "yueqr@vip.163.com", "affiliation": {"@type": "Organization", "name": "University of Science and Technology Beijing"}},
+    {"@type": "Person", "givenName": "Zhen", "familyName": "Xu", "email": "xuzhen@ustb.edu.cn", "affiliation": {"@type": "Organization", "name": "University of Science and Technology Beijing"}}
+  ],
+  "keywords": ["OpenStreetMap", "RAG-LLM", "semantic completion", "topology-semantic graph"]
+}

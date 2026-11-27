@@ -1,0 +1,14 @@
+{
+  "title": "Code for Retrieval-Augmented Large Language Model for City-Scale Power Grid Topology Approximation from Incompletely Labelled OpenStreetMap Data",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "Custom code for descriptive evaluation, deterministic topology assembly, spatial-scale sensitivity analysis, and figure generation for the associated Scientific Reports manuscript.",
+  "creators": [
+    {"name": "Deng, Xingrui", "affiliation": "Research Institute of Urbanization and Urban Safety, School of Future Cities, University of Science and Technology Beijing"},
+    {"name": "Zhao, Yujie", "affiliation": "Research Institute of Urbanization and Urban Safety, School of Future Cities, University of Science and Technology Beijing"},
+    {"name": "Yue, Qingrui", "affiliation": "Research Institute of Urbanization and Urban Safety, School of Future Cities, University of Science and Technology Beijing"},
+    {"name": "Xu, Zhen", "affiliation": "Research Institute of Urbanization and Urban Safety, School of Future Cities, University of Science and Technology Beijing"}
+  ],
+  "keywords": ["OpenStreetMap", "retrieval-augmented generation", "large language model", "power grid topology", "reproducible research"],
+  "license": "MIT"
+}
